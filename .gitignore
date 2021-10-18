@@ -363,3 +363,6 @@ MigrationBackup/
 .npm/
 .nuget/
 .profile
+
+# VS Code
+.vscode/
