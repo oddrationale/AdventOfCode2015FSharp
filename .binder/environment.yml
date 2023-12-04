@@ -1,7 +1,7 @@
-name: dotnet8.0
+name: dotnet7.0
 channels:
   - conda-forge
   - defaults
 dependencies:
-  - dotnet=8.0
+  - dotnet=7.0
   
